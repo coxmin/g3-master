@@ -1,0 +1,194 @@
+.dispecer {
+    border-radius: 4em 0 0 0;
+    color: #160;
+    font-weight: bold;
+    font-size: 1.4em;
+    font-family:serif;
+}
+
+.rowbt {
+    padding: 2px;
+    margin: 0;
+}
+
+.npt,
+.czi,
+.nptcheck,
+.czicheck {
+    padding: 0;
+    margin: 0;
+    border-color: #bbb;
+    font-size: .7em;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.czi {
+    color: #eee;
+}
+
+.npt {
+    color: #aaa;
+}
+
+.czi,
+.czicheck {
+    background-image: linear-gradient(to top, #fff 10%, #ddd 50%, #fff 80%);
+    border-right: 0 none;
+    border-radius: 2px 0 0 2px;
+}
+
+.npt,
+.nptcheck {
+    background-image: linear-gradient(to top, #ccc 10%, #999 50%, #bbb 90%);
+    border-left: 0 none;
+    border-radius: 0 2px 2px 0;
+}
+
+.nptcheck {
+    background-image: linear-gradient(to top, #8bf 10%, #28f 50%, #4af 80%);
+    border-color: #8bf;
+}
+
+.czicheck {
+    background-image: linear-gradient(to top, #fda 10%, #fa0 50%, #fd0 80%);
+    border-color: #da8;
+}
+.htree{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.hday {
+    text-shadow: 0 1px 2px #bdf, 0 0 1px #fff;
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #ddd;
+    background: linear-gradient(to top, #ccc 10%, #ddd 50%, #aaa 90%);
+}
+
+.samb,
+.sambday {
+    color: #060;
+}
+
+.dumi,
+.dumiday {
+    color: #800;
+}
+
+.azi,
+.aziday {
+    color: #f60;
+}
+
+.day,
+.dayday {
+    color: #333;
+}
+
+.samb,
+.dumi,
+.azi,
+.day {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.sambday,
+.dumiday,
+.aziday,
+.dayday {
+    font-weight: bold;
+    font-size: .8em;
+}
+
+.cbox {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.obvbutton {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.postbt {
+    background-image: linear-gradient(to top, #adf 20%, #acf 50%, #bdf 80%);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.postcheck {
+    background-image: linear-gradient(to top, #bbb 20%, #ddd 50%, #ccc 80%);
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.timp,
+.date,
+.lock,
+.statbar {
+    margin: 0;
+    padding: 0;
+    border: 0 none;
+    background: #aaa;
+    border-radius: 0;
+    text-shadow: 0 1px 2px #fff;
+}
+
+.timp {
+    color: #000;
+    font-weight: 600;
+    font-size: 1.4em;
+}
+
+.date {
+    font-family: serif;
+    font-size: 1em;
+}
+
+.statbar {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.navbt {
+    margin: 0;
+    padding: 0;
+}
+
+.navlab {
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.navlabb {
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: Serif;
+    text-shadow: 0 1px 1px #fff;
+}
+
+.hilightrow {
+    border-bottom: 1px solid #080;
+}
+
+.hilight {
+    border-left: 1px solid #080;
+    box-shadow: 0 0 2px 0 #8fb;
+}
+
+.hilightr {
+    border-right: 1px solid #080;
+    box-shadow: 0 0 2px 0 #8fb;
+}
+
+.txtinfo {
+    color: #603;
+    background: #ccc;
+    font-family: Serif;
+}
+
+.selday {
+    box-shadow: 0 0 2px 1px #b40;
+}
